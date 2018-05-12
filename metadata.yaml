@@ -1,0 +1,29 @@
+_repo: Mrs.-Leary-s-CowA-Legend-of-Chicago_45066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hine, C. C. (Charles Cole)
+    alias: Hine, Charles Cole
+    birthdate: 1825
+    deathdate: 1897
+    gutenberg_agent_id: '43062'
+    url: http://www.gutenberg.org/2009/agents/43062
+description: ''
+gutenberg_issued: '2014-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45066'
+  lccn: 07019952
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Fire, Chicago, Ill., 1871 -- Poetry'
+- !lcc 'HG'
+- !lcc 'PS'
+title: 'Mrs. Leary''s Cow: A Legend of Chicago'
+url: http://www.gutenberg.org/ebooks/45066
